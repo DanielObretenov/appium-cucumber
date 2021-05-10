@@ -1,0 +1,10 @@
+screens\HomeScreen.class
+config\PropertyReader.class
+utils\DriverUtil.class
+config\GlobalPaths.class
+screens\PreferencesScreen.class
+screens\DateWidgetsScreen.class
+screens\InlineClockScreen.class
+screens\WifiScreen.class
+screens\BaseScreen.class
+screens\ViewsScreen.class

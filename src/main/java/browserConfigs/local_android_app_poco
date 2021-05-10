@@ -1,0 +1,5 @@
+deviceName=Android Device
+realMobile=true
+browser=chrome
+automationName=UIAutomator2
+browserName=Chrome

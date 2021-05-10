@@ -1,0 +1,4 @@
+deviceName=Nexus_5X_API_26
+realMobile=false
+browser=android
+automationName=UIAutomator2
